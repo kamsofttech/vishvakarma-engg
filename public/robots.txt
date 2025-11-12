@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://apurvaengineering.com/
+
+# Sitemaps
+Sitemap: https://apurvaengineering.com/sitemap.xml
