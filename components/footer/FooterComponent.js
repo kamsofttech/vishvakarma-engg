@@ -109,7 +109,7 @@ for defence and aerospace Industries.
 
                                 <div className="widget widget_services border-0 n-da">
 
-                                    <img className="footer-logo" src='/images/logo/aplogoFootLogo.png' alt="" />
+                                    <img className="footer-logo" src='/images/footerlogo2.png' alt="" />
                                     {/* <p className='text-white'>IHM are exclusive dealers for L&T Valves in Telangana. The company has a series of
                                         successful innovations to its credit,
                                         including mission-critical solutions
