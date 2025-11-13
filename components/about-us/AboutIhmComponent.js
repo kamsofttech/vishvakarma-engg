@@ -6,7 +6,7 @@ const AboutIhmComponent = () => {
     <div className={`bg-light-white ${styles.abt_cl}  `} >
       <div className="container ">
       <div className='head-block '>
-              <h4 className="w-title">Welcome to Apurva Engineering</h4>
+              <h4 className="w-title">Welcome to Vishwakarma Engineering</h4>
               {/* <p className='w-title1'>A legacy of Excellence”</p> */}
             </div>
         <div className={`row pt-3`}>

@@ -9,7 +9,7 @@ const DrawerComponent = ({open, onHide,setOpen}) => {
     <Drawer  placement="right" onClose={()=>setOpen(false)} open={open}>
       <div className='drawer-logo text-center' >
         <a>
-          <img className="footer-logo" src="/images/logo/aplogo.png" alt="logo"/>
+          <img className="footer-logo" src="/images/logo-1.png" alt="logo"/>
          
           </a>
       </div>

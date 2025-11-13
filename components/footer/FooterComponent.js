@@ -166,7 +166,7 @@ for defence and aerospace Industries.
                 <div className="footer-bottom bg-red-c">
                     <div className="container">
                         <div className="row">
-                            <div className="col-md-6 col-sm-6 text-left "> <span>Copyright © 2024 Apurva Engineering</span> </div>
+                            <div className="col-md-6 col-sm-6 text-left "> <span>Copyright © 2024 Vishwakarma Engineering</span> </div>
                             <div className="col-md-6 col-sm-6 text-right ">
                                 <div className="widget-link ">
                                     <ul>

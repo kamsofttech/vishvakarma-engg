@@ -99,7 +99,7 @@ direction and day-to-day operations of the firm, driving innovation and excellen
                                     </ul>
                                     </li> */}
                                     <li>
-                                    <Popover className='dirPop' content={dirContent} title="Mrs. Poonam Raicar">
+                                    <Popover className='dirPop' content={dirContent} title="Mr. Shekhar chari">
                                         <a >Director Profile</a>
                                     </Popover>
                                         

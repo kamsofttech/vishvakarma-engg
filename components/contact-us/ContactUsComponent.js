@@ -11,7 +11,7 @@ const ContactUsComponent = () => {
                         <div className='col-12 col-md-12'>
                             <div className='new-block-center text-center'>
                               <h4 className="w-title">Let's Work Together</h4>
-                              <p className='w-title1'>Contact our team of experts today to discuss all your services needs.</p>
+                              <p className='w-title1'>Contact our team of experts today to discuss your auto body needs.</p>
                            
                             </div>
                             <div className='nc-right-block plr-8'>

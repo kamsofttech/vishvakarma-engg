@@ -6,7 +6,7 @@ import styles from './about.module.css'
 import { useRouter } from 'next/router';
 
 function AboutTabComponent(
-    { title1, title2, title3, title4, head1, para1 ,buttoncon, head2, list1, list2, list3, list4, list5, list6,
+    { title1, title2, title3, title4, head0, head1, para1 ,buttoncon, head2, list1, list2, list3, list4, list5, list6,
     head3, para3, para2, head4, head5, head6, para4, para5, head7, para6, head8 }
 ) 
 
@@ -24,6 +24,7 @@ function AboutTabComponent(
                                     <img src='/images/img1.jpg' />
                                 </div>
                                 <div className='col-md-8'>
+                                    <span><b>{head0}</b></span>
                                     <h4>{head1}</h4>
                                     <p>{para1}</p>
                                     <Button onClick={() => router.push('/contact-us')} size='middle' icon={<i class="las la-comment"></i>} className='btn_primary2'>Request a Quote</Button>

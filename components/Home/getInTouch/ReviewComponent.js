@@ -91,7 +91,7 @@ function ReviewComponent() {
         <div className={'col-md-7  swip'}>
             <Card>
                 <h2>Check out <span className={styles.head_class}>Review</span></h2>
-                {/* <Swiper
+                <Swiper
         spaceBetween={30}
         centeredSlides={true}
         autoplay={{
@@ -110,11 +110,11 @@ We highly recommend Apurva Engineering to anyone seeking reliable and innovative
                  <h6>Sidith Raiturkar - <span className={styles.color_div}>Director shiptek marine solutions. Goa</span></h6></h5>
                  </SwiperSlide>
                  <SwiperSlide><h5> 
-                 Apurva Engineering, led by Mrs. Poonam Raicar, delivers exceptional technical solutions with professionalism and expertise. Their commitment to quality and customer satisfaction is unmatched. Highly recommended for marine systems.
-                    <h6>Atul Jadhav - <span className={styles.color_div}>chairman Newera shipping pvt ltd Vasco da gama</span></h6></h5></SwiperSlide>
-                 <SwiperSlide><h5> Apurva Engineering, under Mr.  Raicar's leadership, provides top-notch technical solutions and unparalleled customer service. Highly recommended for Hydraulics Systems 
-                 <h6>Aridam Kabiraj - <span className={styles.color_div}>PNP port mumbai.</span></h6></h5></SwiperSlide>
-           </Swiper> */}
+                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    <h6>Lorem Ipsum - <span className={styles.color_div}>Lorem Ipsum is simply dummy text of the printing</span></h6></h5></SwiperSlide>
+                 <SwiperSlide><h5> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                 <h6>Lorem Ipsum - <span className={styles.color_div}>Lorem Ipsum is simply dummy text of the printing.</span></h6></h5></SwiperSlide>
+           </Swiper>
         <div className={styles.swip} >
           {/* <ClientListComponent/> */}
            

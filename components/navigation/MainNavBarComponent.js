@@ -123,7 +123,7 @@ const MainNavBarComponent =()=>{
                         <div className={btnClick?`header-nav navbar-collapse show collapse`:`header-nav navbar-collapse collapse  `} id="navbarNavDropdown">
                             <div className="logo-header d-md-block d-lg-none">
                                 <a href="#">
-                                <img src='/images/logo/aplogo.png' alt="logo"/> 
+                                <img src='/images/logo-1.png' alt="logo"/> 
                                     </a>
                             </div>
                             
