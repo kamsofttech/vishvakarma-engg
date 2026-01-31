@@ -102,18 +102,31 @@ function ReviewComponent() {
           clickable: true,
         }}>
                  <SwiperSlide><h5>
-                   Working with Apurva Engineering has been an absolute pleasure. Their team, led by Mr. Samir Juwarkar and Amar Raikar, exhibits unparalleled professionalism 
-                  and expertise in the field of engine  repairs. As a client, we have always received prompt and efficient solutions to our technical challenges, thanks to their knowledgeable staff and state-of-the-art facilities. Their commitment to quality and customer satisfaction is truly commendable. 
-We highly recommend Apurva Engineering to anyone seeking reliable and innovative solutions for their marine and industrial needs.
+                 Wishwakarma Motor Works has been a reliable partner for our municipal vehicle body requirements. Their workmanship, durability, and timely delivery have consistently met our operational needs. We appreciate their technical expertise and professional approach.
 
 
-                 <h6>Sidith Raiturkar - <span className={styles.color_div}>Director shiptek marine solutions. Goa</span></h6></h5>
+                 <h6>Calangute Panchayat </h6></h5>
                  </SwiperSlide>
                  <SwiperSlide><h5> 
-                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                    <h6>Lorem Ipsum - <span className={styles.color_div}>Lorem Ipsum is simply dummy text of the printing</span></h6></h5></SwiperSlide>
-                 <SwiperSlide><h5> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                 <h6>Lorem Ipsum - <span className={styles.color_div}>Lorem Ipsum is simply dummy text of the printing.</span></h6></h5></SwiperSlide>
+                 We have been associated with Wishwakarma Motor Works for vehicle body fabrication and modifications. Their understanding of local operating conditions and attention to safety and quality make them a trusted name in the field.
+                    <h6>Parra Panchayat</h6></h5></SwiperSlide>
+                 <SwiperSlide><h5>The bodies fabricated by Vishwakarma Motor Works are robust, well-finished, and built for long-term use. Their team is responsive and cooperative, ensuring smooth execution from design to delivery.
+                 <h6>Arpora Panchayat</h6></h5></SwiperSlide>
+                 <SwiperSlide><h5>Wishwakarma Motor Works has supported us with dependable vehicle bodies suited for municipal operations. Their experience shows in the quality of fabrication and compliance with required standards.
+                 <h6>Candolim Panchayat</h6></h5></SwiperSlide>
+                 <SwiperSlide><h5>We value Wishwakarma Motor Works for their engineering capability and consistent quality. Their vehicle bodies have performed efficiently under demanding municipal conditions.
+                 <h6>CCp Panjim</h6></h5></SwiperSlide>
+                 <SwiperSlide><h5>Wishwakarma Motor Works delivers sturdy and functional vehicle bodies that meet the needs of civic operations. Their long-standing experience reflects in the durability and practicality of their designs.
+                 <h6>Bicholim Municipal Council</h6></h5></SwiperSlide>
+                 <SwiperSlide><h5>I have relied on Wishwakarma Motor Works for customized vehicle body solutions. Their commitment to quality, transparent communication, and on-time delivery sets them apart.
+                 <h6>Santosh Korgaokar</h6></h5></SwiperSlide>
+                 <SwiperSlide><h5>Wishwakarma Motor Works has provided us with well-engineered and reliable body fabrication solutions. Their craftsmanship and after-sales support give us confidence in every project.
+                 <h6>Zarapkars, Mapusa</h6></h5></SwiperSlide>
+                 <SwiperSlide><h5>The team at Wishwakarma Motor Works understands practical requirements and executes them with precision. Their bodies are strong, functional, and built to last.
+                 <h6>P. D. Dessai</h6></h5></SwiperSlide>
+                 <SwiperSlide><h5>From design consultation to final delivery, Wishwakarma Motor Works maintains high standards of professionalism. Their technical know-how and attention to detail are commendable.
+                 <h6>Raghavendra Dessai</h6></h5></SwiperSlide>
+                 
            </Swiper>
         <div className={styles.swip} >
           {/* <ClientListComponent/> */}

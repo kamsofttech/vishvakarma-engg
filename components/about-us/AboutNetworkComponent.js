@@ -44,7 +44,7 @@ const AboutNetworkComponent = () => {
                                                     <img src='images/icon/netIco3-min.png'/>
                                                 </div>
                                                 <div className='net_box_ico_cont'>
-                                                    <p class="g-sec-title">40+</p>
+                                                    <p class="g-sec-title">1000+</p>
                                                     <p class="g-sec-desc ">Customers</p>
                                                 </div>
                                                 
@@ -56,7 +56,7 @@ const AboutNetworkComponent = () => {
                                                     <img src='images/icon/netIco4-min.png'/>
                                                 </div>
                                                 <div className='net_box_ico_cont'>
-                                                    <p class="g-sec-title">10+</p>
+                                                    <p class="g-sec-title">56+</p>
                                                     <p class="g-sec-desc ">Experience</p>
                                                 </div>
                                                 
@@ -67,7 +67,7 @@ const AboutNetworkComponent = () => {
                                         <p className='text-white'>
                                             
 
-Vishwakarma Engineering– Discover the difference that Vishwakarma Engineering can make for your vehicle
+                                        Wishwakarma Motor Works– Discover the difference that Wishwakarma Motor Works can make for your vehicle
 .</p>
                                     </div>
                                 

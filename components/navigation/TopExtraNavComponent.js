@@ -11,10 +11,13 @@ const TopExtraNavComponent = ({ isFixed }) => {
     }
     const dirContent = (
         <div className='dirCont'>
-          <p> Mr. Shekhar Chari is the owner of Vishwakarma Engineering, a leading name in custom vehicle body fabrication. He oversees the strategic 
-direction and day-to-day operations of the firm, driving innovation and excellence across every project. With over decades of experience
- in the industrial and automotive sectors,Mr. Shekhar Chari brings unmatched expertise, vision, and leadership to the business. His commitment to
- quality, customer satisfaction, and engineering precision has positioned Vishwakarma Engineering as a trusted partner in the vehicle body building industry.</p>
+          <p> Mr. Chandrashekhar Sakharam chari. is the owner of Wishwakarma Motor Works, a leading name in custom vehicle 
+            body fabrication. He oversees the strategic direction and day-to-day operations of the firm, driving innovation 
+            and excellence across every project. With over decades of experience in the industrial and automotive sectors,
+            Mr. Shekhar Chari brings unmatched expertise, vision, and leadership to the business. His commitment to quality, 
+            customer satisfaction, and engineering precision has positioned Wishwakarma Motor Works as a trusted partner
+            in the vehicle body building industry.
+</p>
 <a class="read-more" onClick={handleClick}>Read More<i class="fa fa-arrow-right"></i></a>
         </div>
       )
@@ -99,7 +102,7 @@ direction and day-to-day operations of the firm, driving innovation and excellen
                                     </ul>
                                     </li> */}
                                     <li>
-                                    <Popover className='dirPop' content={dirContent} title="Mr. Shekhar chari">
+                                    <Popover className='dirPop' content={dirContent} title="Mr. Chandrashekhar Sakharam chari">
                                         <a >Director Profile</a>
                                     </Popover>
                                         

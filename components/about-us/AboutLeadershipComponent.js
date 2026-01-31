@@ -11,7 +11,7 @@ const AboutLeadershipComponent = () => {
               <h4 className="w-title">Our vision</h4>
               {/* <p className='w-title1'>A legacy of Excellence”</p> */}
             </div>
-          <h3 className={`pt-3 ${styles.fon}`}>To be a leading force in the vehicle body building industry by delivering innovative, reliable, and customized engineering solutions that drive progress across transportation and utility sectors. We envision a future where every vehicle we build enhances operational efficiency, safety, and sustainability for our clients.
+          <h3 className={`pt-3 ${styles.fon}`}>To be a leading name in vehicle body building by embracing innovation, sustainability, and customer-centric design.
 
 
           </h3>

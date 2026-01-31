@@ -26,10 +26,10 @@ const WasteManagementComponent = () => {
           </div>
           <div class="mini_head_block mt-5 mb-2">
             <p className="">
-            In the ever-evolving landscape of waste management, the demand for robust and reliable solid waste equipment is paramount. As environmental concerns escalate and regulations tighten, businesses and municipalities alike seek innovative solutions to tackle waste effectively. At Vishwakarma Engineering, we are dedicated to transforming the industry with advanced solid waste equipment solutions engineered to maximize efficiency and sustainability
+            In the ever-evolving landscape of waste management, the demand for robust and reliable solid waste equipment is paramount. As environmental concerns escalate and regulations tighten, businesses and municipalities alike seek innovative solutions to tackle waste effectively. At Wishwakarma Motor Works, we are dedicated to transforming the industry with advanced solid waste equipment solutions engineered to maximize efficiency and sustainability
             </p>
             <p className="" >
-            Whether deployed for household waste pickup, community cleanups, or rural sanitation drives, this build reflects Vishwakarma Engineering’s commitment to civic utility, structural integrity, and field-ready performance.
+            Whether deployed for household waste pickup, community cleanups, or rural sanitation drives, this build reflects Wishwakarma Motor Works’s commitment to civic utility, structural integrity, and field-ready performance.
             </p>
 
             <h4>Key Features</h4>

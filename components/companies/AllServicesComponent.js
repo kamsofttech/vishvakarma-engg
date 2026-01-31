@@ -13,6 +13,12 @@ import WindlessServiceComponent from './WindlessServiceComponent';
 import ValvesComponent from './ValvesComponent';
 import PipelineComponent from './PipelineComponent';
 import WasteManagementComponent from './WasteManagementComponent';
+import MobileAdvertisingComponent from './MobileAdvertisingComponent';
+import EarthMovingComponent from './EarthMovingcomponent';
+import SepticTankerComponent from './SepticTankerComponent';
+import EvRickshawComponent from './EvRickshawComponent';
+import StainlessSteelTankerComponent from './StainlessSteelTankerComponent';
+import ContainerBodyComponent from './ContainerBodyComponent';
 
 const AllServicesComponent = ({ tabKey, catCode, setTabKey }) => {
   const [newData, setNewData] = React.useState();
@@ -89,10 +95,16 @@ const AllServicesComponent = ({ tabKey, catCode, setTabKey }) => {
                         {submenu.companyName === 'Standard dump truck body' && <SteeringMarineComponent />}
                         {submenu.companyName === 'Light-Duty Dump Body' && <HydraulicComponent />}
                         {submenu.companyName === 'Hydraulic Dump Body (Compact Class)' && <MarineTransmissionComponent />}
-                        {submenu.companyName === 'Tanker Body' && <WindlessServiceComponent />}
+                        {submenu.companyName === 'Mild steel water tanker body' && <WindlessServiceComponent />}
                         {submenu.companyName === 'Secure Utility Body' && <ValvesComponent />}
                         {submenu.companyName === 'Open Cargo Body' && <PipelineComponent />}
                         {submenu.companyName === 'Waste Collection Body' && <WasteManagementComponent/>}
+                        {submenu.companyName === 'Mobile Advertising Vehicle Body' && <MobileAdvertisingComponent/>}
+                        {submenu.companyName === 'Earth Moving Machinery carrier body' && <EarthMovingComponent/>}
+                        {submenu.companyName === 'Septic Tanker Body' && <SepticTankerComponent/>}
+                        {submenu.companyName === 'EV Rickshaw Tipper' && <EvRickshawComponent/>}
+                        {submenu.companyName === 'Stainless Steel Water Tanker Body' && <StainlessSteelTankerComponent/>}
+                        {submenu.companyName === 'Container Body' && <ContainerBodyComponent/>}
                   </Tabs.TabPane>
                   )
                   })}

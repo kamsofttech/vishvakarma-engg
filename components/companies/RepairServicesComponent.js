@@ -30,7 +30,7 @@ const RepairServicesComponent = () => {
                     </div>
                     <div class="mini_head_block mt-5 mb-2">
                         <p className="">
-                            Vishwakarma Engineering proudly introduces a flatbed tow truck body — a rugged, thoughtfully designed solution built for real-world recovery and transport needs. Made from high-grade structural steel with reinforced welds, this body is built to last through heavy-duty use and tough terrain. Its low-profile deck is treated with an anti-slip surface, making vehicle loading safer and more secure, while the overall design ensures smooth, reliable operation even in demanding conditions. Whether you're towing, transporting, or recovering vehicles, this flatbed body delivers the strength and confidence professionals rely on.
+                            Wishwakarma Motor Works proudly introduces a flatbed tow truck body — a rugged, thoughtfully designed solution built for real-world recovery and transport needs. Made from high-grade structural steel with reinforced welds, this body is built to last through heavy-duty use and tough terrain. Its low-profile deck is treated with an anti-slip surface, making vehicle loading safer and more secure, while the overall design ensures smooth, reliable operation even in demanding conditions. Whether you're towing, transporting, or recovering vehicles, this flatbed body delivers the strength and confidence professionals rely on.
                         </p>
 
                         <h4>Key Features</h4>

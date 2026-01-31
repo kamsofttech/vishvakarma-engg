@@ -62,7 +62,7 @@ const MainNavBarComponent =()=>{
                         <div className="logo-header mostion logo-dark " >
                             
                             <a >
-                                <img src='/images/logo-1.png' alt="logo"/> 
+                                <img src='/images/logo/wishwakarma-logo.png' alt="logo"/> 
     
                                 </a>
 

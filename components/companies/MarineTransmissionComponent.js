@@ -32,7 +32,7 @@ const MarineTransmissionComponent = () => {
           </div>
           <div class="mini_head_block mt-5 mb-2">
             <p className="">
-            Vishwakarma Engineering delivers a smart, compact hydraulic dump body designed for efficient material handling in tight spaces and semi-rural environments. Built on a sturdy utility truck platform, this body features a precision-fitted hydraulic lift system that allows quick and controlled unloading of sand, soil, or debris. The dump bed is fabricated from high-strength steel, offering both durability and visibility on active sites.
+            Wishwakarma Motor Works delivers a smart, compact hydraulic dump body designed for efficient material handling in tight spaces and semi-rural environments. Built on a sturdy utility truck platform, this body features a precision-fitted hydraulic lift system that allows quick and controlled unloading of sand, soil, or debris. The dump bed is fabricated from high-strength steel, offering both durability and visibility on active sites.
             </p>
             <p className="" >
             With its compact footprint and reliable tipping mechanism, this build is ideal for contractors, municipal crews, and small-scale construction teams who need performance without compromising maneuverability.

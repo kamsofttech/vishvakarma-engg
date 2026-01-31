@@ -32,10 +32,10 @@ const SteeringMarineComponent = () => {
           </div>
           <div class="mini_head_block mt-5 mb-2">
             <p className="">
-              Vishwakarma Engineering presents a robust and reliable dump truck body built to handle the toughest jobs in construction, mining, and material transport. Designed with real-world conditions in mind, this body combines strength, efficiency, and safety in one powerful package. Constructed from heavy-duty steel and reinforced at critical stress points, the dump bed is built to endure repeated loading and unloading of sand, gravel, rubble, and other bulk materials.
+              Wishwakarma Motor Works presents a robust and reliable dump truck body built to handle the toughest jobs in construction, mining, and material transport. Designed with real-world conditions in mind, this body combines strength, efficiency, and safety in one powerful package. Constructed from heavy-duty steel and reinforced at critical stress points, the dump bed is built to endure repeated loading and unloading of sand, gravel, rubble, and other bulk materials.
             </p>
             <p className="" >
-              The hydraulic lift system ensures smooth and controlled tipping, while the high side panels prevent spillage during transit. Every detail — from the tailgate locking mechanism to the corrosion-resistant finish — reflects Vishwakarma Engineering’s commitment to durability and field-tested performance. Whether you're operating in rural infrastructure, industrial zones, or urban development sites, this dump body delivers the reliability and ruggedness professionals demand.
+              The hydraulic lift system ensures smooth and controlled tipping, while the high side panels prevent spillage during transit. Every detail — from the tailgate locking mechanism to the corrosion-resistant finish — reflects Wishwakarma Motor Works’s commitment to durability and field-tested performance. Whether you're operating in rural infrastructure, industrial zones, or urban development sites, this dump body delivers the reliability and ruggedness professionals demand.
             </p>
 
             <h4>Key Features</h4>

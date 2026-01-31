@@ -29,7 +29,7 @@ const HydraulicComponent = () => {
           </div>
           <div class="mini_head_block mt-5 mb-2">
             <p className="">
-            Vishwakarma Engineering brings you a compact yet powerful dump truck body designed for everyday utility and construction tasks. Built with precision and durability in mind, this light-duty body is ideal for transporting soil, debris, sand, and other bulk materials across urban and semi-rural sites. The structure is fabricated from high-strength steel, with reinforced joints and a smooth hydraulic lift system that ensures reliable tipping and easy unloading.
+            Wishwakarma Motor Works brings you a compact yet powerful dump truck body designed for everyday utility and construction tasks. Built with precision and durability in mind, this light-duty body is ideal for transporting soil, debris, sand, and other bulk materials across urban and semi-rural sites. The structure is fabricated from high-strength steel, with reinforced joints and a smooth hydraulic lift system that ensures reliable tipping and easy unloading.
             </p>
             <p className="" >
             Its clean, functional design makes it perfect for municipal work, landscaping, and small-scale construction, offering a dependable solution where maneuverability and efficiency matter most.

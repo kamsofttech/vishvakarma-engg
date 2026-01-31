@@ -109,7 +109,7 @@ for defence and aerospace Industries.
 
                                 <div className="widget widget_services border-0 n-da">
 
-                                    <img className="footer-logo" src='/images/footerlogo2.png' alt="" />
+                                    <img className="footer-logo" src='/images/logo/footer-logo.jpg' alt="" />
                                     {/* <p className='text-white'>IHM are exclusive dealers for L&T Valves in Telangana. The company has a series of
                                         successful innovations to its credit,
                                         including mission-critical solutions
@@ -117,7 +117,7 @@ for defence and aerospace Industries.
                                     </p> */}
                                     <ul>
                                         <a className='text-white'></a><br></br>
-                                        <a className='text-white'> Contact us today to discuss your vehicle body building requirements and discover how Vishwakarma Engineering can help bring your vision to life.
+                                        <a className='text-white'> Contact us today to discuss your vehicle body building requirements and discover how Wishwakarma Motor Works can help bring your vision to life.
                                         </a><br></br>
                                         <a className='text-white'>Contact us: +91 9422057468</a><br></br>
                                         <a className='text-white'>Email: <u> </u></a><br></br>
@@ -166,7 +166,7 @@ for defence and aerospace Industries.
                 <div className="footer-bottom bg-red-c">
                     <div className="container">
                         <div className="row">
-                            <div className="col-md-6 col-sm-6 text-left "> <span>Copyright © 2024 Vishwakarma Engineering</span> </div>
+                            <div className="col-md-6 col-sm-6 text-left "> <span>Copyright © 2024 Wishwakarma Motor Works</span> </div>
                             <div className="col-md-6 col-sm-6 text-right ">
                                 <div className="widget-link ">
                                     <ul>

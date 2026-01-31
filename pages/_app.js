@@ -36,19 +36,19 @@ function MyApp({ Component, pageProps }) {
 
                     <Head>
                     <link rel="icon" type="image/png" sizes="77x32" href="/favicon.png" />
-                    <title>Expert Engineering Solutions for Marine and Industrial Needs | Apurva Engineering</title>
+                    <title>Wishwakarma Motor Works | Custom Vehicle Body Builders in Goa Since 1969</title>
                     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
                     <meta name="language" content="English" />
-                    <meta name="title" content="Expert Engineering Solutions for Marine and Industrial Needs | Apurva Engineering" />
-                    <meta name="description" content="Apurva Engineering offers comprehensive solutions for marine and industrial engine repairs, steering marine systems, hydraulic systems, marine transmissions, windlass servicing, valves, pumps, pipeline services, and manufacturing of equipment spares including hydraulic jacks, power packs, cylinders, control valves, and more. Trusted brands like ZF, Kirloskar, FADA, and Advance. Contact us for reliable and efficient services."/>
-                    <meta name="keywords" content="Apurva Engineering;marine and industrial engine repairs; Marine engine repairs;Industrial engine repairs;Steering marine system maintenance;Hydraulic system servicing;
-                        Marine transmissions repair;Windlass servicing;Valve and pump maintenance;Pipeline services;
-                        Equipment spares manufacturing;Hydraulic jacks repair;Hydraulic power packs maintenance;
-                        Hydraulic cylinders servicing;Direction control valves repair;Unloader valves maintenance;
-                        Motors and pumps servicing;ZF transmission repairs;Kirloskar pneumatic services;
-                        FADA equipment maintenance;Advance machinery servicing;Marine and industrial engineering solutions" 
+                    <meta name="title" content="Wishwakarma Motor Works | Custom Vehicle Body Builders in Goa Since 1969" />
+                    <meta name="description" content="Wishwakarma Motor Works is a trusted vehicle body builder in Goa since 1969, offering custom auto body fabrication including mobile advertising vehicles, tanker bodies, tippers, container bodies, and machinery carriers with over 1000+ satisfied customers."/>
+                    <meta name="keywords" content="Wishwakarma motor works; vehicle body builder in goa;
+                     auto body building goa; custom vehicle body fabricatio; mobile advertising vehicle body;
+                      tanker body manufacturer; septic tanker body; water tanker body; stainless steel water tanker;
+                       mild steel water tanker; container body fabrication; earth moving machinery carrier;
+                        ev rickshaw tipper body; truck body builders goa; commercial vehicle body works;
+                         CMVR compliant vehicle bodies;" 
                         />
-                    <meta name="author" content="Apurva Engineering, Goa" />
+                    <meta name="author" content="Wishwakarma Motor Works, Goa" />
                     <meta name="revisit-after" content="15 days" />
                     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                    </Head>

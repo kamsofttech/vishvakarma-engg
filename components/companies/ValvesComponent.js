@@ -29,7 +29,7 @@ const ValvesComponent = () => {
           </div>
           <div class="mini_head_block mt-5 mb-2">
             <p className="">
-            Vishwakarma Engineering presents a compact, secure utility body designed for specialized transport and mobile service applications. Built on the reliable Super Carry platform, this enclosure features a fully enclosed metal cabin with reinforced panels, ideal for safeguarding sensitive cargo or creating a mobile workspace. The structure includes a side ventilation window and a lockable rear access door, offering both functionality and security.
+            Wishwakarma Motor Works presents a compact, secure utility body designed for specialized transport and mobile service applications. Built on the reliable Super Carry platform, this enclosure features a fully enclosed metal cabin with reinforced panels, ideal for safeguarding sensitive cargo or creating a mobile workspace. The structure includes a side ventilation window and a lockable rear access door, offering both functionality and security.
             </p>
             <p className="" >
             Whether used for document handling, mobile operations, or secure delivery, this body reflects Apurva Engineering’s commitment to precision fabrication, durability, and purpose-driven design.

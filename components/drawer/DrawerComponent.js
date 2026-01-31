@@ -9,11 +9,11 @@ const DrawerComponent = ({open, onHide,setOpen}) => {
     <Drawer  placement="right" onClose={()=>setOpen(false)} open={open}>
       <div className='drawer-logo text-center' >
         <a>
-          <img className="footer-logo" src="/images/logo-1.png" alt="logo"/>
+          <img className="footer-logo" src="/images/logo/wishwakarma-logo.png" alt="logo"/>
          
           </a>
       </div>
-       <p className='pt-4'>Vishwakarma Engineering is a leading name in the vehicle body building industry, known for its commitment to quality, innovation, and precision. With years of hands-on experience and a deep understanding of engineering dynamics, we specialize in crafting custom-built vehicle bodies tailored to the unique needs of commercial, industrial, and utility sectors.
+       <p className='pt-4'>Wishwakarma Motor Works is a leading name in the vehicle body building industry, known for its commitment to quality, innovation, and precision. With years of hands-on experience and a deep understanding of engineering dynamics, we specialize in crafting custom-built vehicle bodies tailored to the unique needs of commercial, industrial, and utility sectors.
 
  </p>
         <Button style={{backgroundColor:'transparent'}} className='bg-moving' size="large" >REQEST A QUOTE</Button>

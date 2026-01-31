@@ -29,10 +29,10 @@ const PipelineComponent = () => {
           </div>
           <div class="mini_head_block mt-5 mb-2">
             <p className="">
-            Vishwakarma Engineering presents a versatile open cargo body designed for reliable goods transport across industrial, agricultural, and semi-rural routes.  This body features a reinforced flatbed with a custom-fabricated canopy frame, allowing for flexible loading and optional tarpaulin coverage. The structure is engineered using high-strength steel and precision welds to handle heavy loads while maintaining stability and durability.
+            Wishwakarma Motor Works presents a versatile open cargo body designed for reliable goods transport across industrial, agricultural, and semi-rural routes.  This body features a reinforced flatbed with a custom-fabricated canopy frame, allowing for flexible loading and optional tarpaulin coverage. The structure is engineered using high-strength steel and precision welds to handle heavy loads while maintaining stability and durability.
             </p>
             <p className="" >
-            Whether used for bulk materials, packaged goods, or equipment, this open cargo body offers the adaptability and ruggedness that transport operators demand — all backed by Vishwakarma Engineering’s commitment to quality and field-tested design.
+            Whether used for bulk materials, packaged goods, or equipment, this open cargo body offers the adaptability and ruggedness that transport operators demand — all backed by Wishwakarma Motor Works’s commitment to quality and field-tested design.
             </p>
 
             <h4>Key Features</h4>

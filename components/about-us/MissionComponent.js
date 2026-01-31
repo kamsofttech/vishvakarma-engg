@@ -10,7 +10,7 @@ const MissionComponent = () => {
               <h4 className="w-title">Our mission</h4>
               {/* <p className='w-title1'>A legacy of Excellence”</p> */}
             </div>
-          <h3 className={`pt-3 ${styles.fon}`}>Our mission is to engineer excellence into every vehicle body we build. We are dedicated to delivering innovative, durable, and tailor-made body building solutions that empower businesses across transportation, logistics, infrastructure, and public service sectors.
+          <h3 className={`pt-3 ${styles.fon}`}>Our mission is to practice responsible auto body building by using eco-friendly processes, reducing waste, and contributing to a cleaner and safer environment.
 
           </h3>
           {/* <Button>Our Values</Button> */}

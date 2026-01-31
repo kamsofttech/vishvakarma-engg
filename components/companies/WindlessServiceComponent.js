@@ -14,36 +14,40 @@ const WindlessServiceComponent = () => {
         className="marine_swiper">
         <div className='busi_img'>
           <SwiperSlide>
-            <img className='img-fluid' src="/images/servicesimages/tanker1.jpg" />
+            <img className='img-fluid' src="/images/servicesimages/Mild-steel-water-tanker-body.jpg" />
           </SwiperSlide>
-          <SwiperSlide>
+          {/* <SwiperSlide>
             <img className='img-fluid' src="/images/servicesimages/tanker2.jpg" />
           </SwiperSlide>
           <SwiperSlide>
             <img className='img-fluid' src="/images/servicesimages/tanker3.jpg" />
-          </SwiperSlide>
+          </SwiperSlide> */}
         </div>
       </Swiper>
 
       <div className='iron_trade_cont'>
         <div className='iron_trade_sec'>
           <div className='head-block pt-4'>
-            <h4 className="w-title">Tanker Body</h4>
+            <h4 className="w-title">Mild steel water tanker body</h4>
           </div>
           <div class="mini_head_block mt-5 mb-2">
             <p className="">
-            Vishwakarma Engineering proudly builds water tanker bodies that combine rugged construction with reliable performance for daily field operations. Designed to serve municipal, agricultural, and industrial needs, this tanker features a precision-welded cylindrical tank mounted on a reinforced chassis, ensuring safe and efficient transport of water across varied terrain. The body includes a rear dispensing hose system for controlled delivery, while the exterior is finished with corrosion-resistant coatings.
+            The Mild Steel Water Tanker Body from Wishwakarma Motor Worls is purpose-built for the safe storage and transport of potable and non-potable water across municipal, industrial, and agricultural applications. Fabricated from high-grade mild steel sheets, the cylindrical tank is reinforced with internal stiffeners and external rings to ensure structural integrity under varying load conditions. The body is mounted on a robust chassis with precision-engineered supports, distributing weight evenly for stability during transit.
             </p>
             <p className="" >
-            Whether supplying water to remote sites or supporting infrastructure projects, this build reflects Vishwakarma Engineering’s commitment to durability, functionality, and field-ready design.
+            Equipped with inlet and outlet valves, manholes, and a ladder for easy access, the tanker body is designed for operator convenience and efficient water handling. Anti-corrosion coatings and leak-proof welding techniques extend service life, while optional features such as baffles (to reduce water surge), sight glasses, and flow meters enhance functionality. Safety is prioritized through pressure release valves and secure sealing systems, ensuring reliable performance in diverse environments. By combining durability, practicality, and compliance with transport standards, Wishwakarma Motor Works positions this Mild Steel Water Tanker Body as a dependable solution for municipalities, contractors, and industries requiring bulk water supply. Its customizable capacities and fittings make it adaptable for drinking water distribution, irrigation projects, construction sites, and emergency relief operations.
+
             </p>
 
             <h4>Key Features</h4>
             <ul>
-              <li>Cylindrical tank mounted on the chassis.</li>
-              <li>Rear hose outlet for controlled water dispensing.</li>
-              <li>Painted and labeled exterior for identification and branding.</li>
-              <li>Moderate to large capacity, depending on chassis size and tank volume.</li>
+              <li><b>Heavy-Duty Mild Steel Construction –</b> Cylindrical tank with reinforced rings and stiffeners.</li>
+              <li><b>Leak-Proof Welding –</b> Ensures durability and long service life.</li>
+              <li><b>Anti-Corrosion Coating –</b> Protects against rust and weather damage.</li>
+              <li><b>Convenient Access –</b> Manholes, ladders, and inspection points for easy maintenance.</li>
+              <li><b>Efficient Water Handling –</b> Inlet/outlet valves, discharge pipes, and optional flow meters.</li>
+              <li><b>Safety Systems –</b> Pressure release valves and secure sealing to prevent spillage.</li>
+              <li><b>Customization Options –</b> Tank capacities, baffles, sight glasses, and specialized fittings.</li>
 
 
 
