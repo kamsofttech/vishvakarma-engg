@@ -7,7 +7,7 @@ const AboutBreadCumbComponent = () => {
           <div className="kam-bnr-inr-entry p-relative">
             <div className="some-facts "></div>
             <div className="text-uppercase sf-content">
-              <p className='arrow-animation'>About Wishwakarma Motor Workss</p>
+              <p className='arrow-animation'>About Wishwakarma Motor Works</p>
               {/* <h3>A legacy of Excellence</h3> */}
             </div>
           </div>
