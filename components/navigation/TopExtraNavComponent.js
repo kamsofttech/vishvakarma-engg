@@ -14,7 +14,7 @@ const TopExtraNavComponent = ({ isFixed }) => {
           <p> Mr. Chandrashekhar Sakharam chari. is the owner of Wishwakarma Motor Works, a leading name in custom vehicle 
             body fabrication. He oversees the strategic direction and day-to-day operations of the firm, driving innovation 
             and excellence across every project. With over decades of experience in the industrial and automotive sectors,
-            Mr. Shekhar Chari brings unmatched expertise, vision, and leadership to the business. His commitment to quality, 
+            Mr. Chandrashekhar Sakharam chari brings unmatched expertise, vision, and leadership to the business. His commitment to quality, 
             customer satisfaction, and engineering precision has positioned Wishwakarma Motor Works as a trusted partner
             in the vehicle body building industry.
 </p>
